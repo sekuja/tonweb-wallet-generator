@@ -25,7 +25,7 @@ TonWeb Wallet Generator is a tool to generate wallet addresses for different ver
 ### 1. Clone the repository
 
 ```
-git clone git remote add origin https://github.com/sekuja/tonweb-wallet-generator.git
+git clone https://github.com/sekuja/tonweb-wallet-generator.git
 cd tonweb-wallet-generator
 ```
 
