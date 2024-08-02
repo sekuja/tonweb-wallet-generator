@@ -1,5 +1,11 @@
 # tonweb-wallet-generator
 
+Feel free donate to my TON address:
+
+```
+UQDMoRyYACfLDJbmvd8XdonsPaPJhALay86KIJ9hd1e-fVFW
+```
+
 TonWeb Wallet Generator is a tool to generate wallet addresses for different versions of TON wallets using a seed phrase stored in a `.env` file. This tool uses the `TonWeb` library to interact with the TON blockchain.
 
 ## Features
