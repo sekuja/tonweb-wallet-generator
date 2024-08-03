@@ -1,4 +1,4 @@
-# tonweb-wallet-generator [![version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/sekuja/tonweb-wallet-generator) [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/sekuja/tonweb-wallet-generator?tab=MIT-1-ov-file)
+# tonweb-wallet-generator [![version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/sekuja/tonweb-wallet-generator) [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/sekuja/tonweb-wallet-generator/blob/HEAD/LICENSE)
 
 Feel free donate to my TON address:
 
