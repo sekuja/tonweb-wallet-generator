@@ -3,6 +3,19 @@ const TonWeb = require('tonweb');
 const tonMnemonic = require('tonweb-mnemonic');
 
 const seedPhrase = process.env.SEED_PHRASE;
+if (!seedPhrase) {
+    console.error(`
+    🚨🚨🚨 [ERROR] SEED_PHRASE Missing! 🚨🚨🚨
+    It looks like you forgot to add the SEED_PHRASE to your .env file.
+    Please create a .env file in the root directory and add the following line:
+    
+    SEED_PHRASE="your seed phrase here"
+    
+    After that, try running the script again. Good luck!
+    `);
+    process.exit(1);
+}
+
 const words = seedPhrase.split(' ');
 
 (async () => {
