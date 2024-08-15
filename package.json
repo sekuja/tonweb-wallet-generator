@@ -1,6 +1,6 @@
 {
   "name": "tonweb-wallet-generator",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "generate.js",
   "scripts": {
     "start": "node generate.js",
