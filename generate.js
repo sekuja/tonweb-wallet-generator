@@ -48,6 +48,7 @@ const words = seedPhrase.split(' ');
         await getWalletAddress(tonweb.wallet.all.v2R2, 'v2R2');
         await getWalletAddress(tonweb.wallet.all.v3R1, 'v3R1');
         await getWalletAddress(tonweb.wallet.all.v3R2, 'v3R2');
+        await getWalletAddress(tonweb.wallet.all.v4R1, 'v4R1');
         await getWalletAddress(tonweb.wallet.all.v4R2, 'v4R2');
     } catch (error) {
         console.error('Error:', error.message);
