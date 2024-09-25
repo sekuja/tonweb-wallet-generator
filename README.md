@@ -1,4 +1,4 @@
-# tonweb-wallet-generator [![version](https://img.shields.io/badge/version-1.0.3-blue)](https://github.com/sekuja/tonweb-wallet-generator) [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/sekuja/tonweb-wallet-generator/blob/HEAD/LICENSE)
+# tonweb-wallet-generator [![version](https://img.shields.io/badge/version-1.0.4-blue)](https://github.com/sekuja/tonweb-wallet-generator) [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/sekuja/tonweb-wallet-generator/blob/HEAD/LICENSE)
 
 TonWeb Wallet Generator is a tool to generate wallet addresses for different versions of TON wallets using a seed phrase stored in a `.env` file. This tool uses the `TonWeb` library to interact with the TON blockchain.
 

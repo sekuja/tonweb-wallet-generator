@@ -1,6 +1,6 @@
 {
   "name": "tonweb-wallet-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "generate.js",
   "scripts": {
     "start": "node generate.js",
@@ -22,6 +22,10 @@
   ],
   "author": "Sekuja",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sekuja/tonweb-wallet-generator.git"
+  },
   "dependencies": {
     "dotenv": "^16.4.5",
     "tonweb": "^0.0.66",
