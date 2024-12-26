@@ -1,6 +1,6 @@
 {
   "name": "tonweb-wallet-generator",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "generate.js",
   "scripts": {
     "start": "node generate.js",
@@ -11,6 +11,7 @@
     "Blockchain",
     "The Open Network",
     "Mnemonic",
+    "Private Key",
     "Wallet",
     "TonWeb"
   ],
