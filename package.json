@@ -1,17 +1,18 @@
 {
   "name": "tonweb-wallet-generator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "generate.js",
   "scripts": {
     "start": "node generate.js",
     "generate": "node generate.js"
   },
   "keywords": [
-    "ton blockchain",
-    "ton wallet",
-    "seed phrase",
-    "private key",
-    "generate address"
+    "TON",
+    "Blockchain",
+    "The Open Network",
+    "Mnemonic",
+    "Wallet",
+    "TonWeb"
   ],
   "author": "Sekuja",
   "license": "MIT",
