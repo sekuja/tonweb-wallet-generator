@@ -1,0 +1,31 @@
+{
+  "name": "tonweb-wallet-generator",
+  "version": "1.0.5",
+  "main": "generate.js",
+  "scripts": {
+    "start": "node generate.js",
+    "generate": "node generate.js"
+  },
+  "keywords": [
+    "ton blockchain",
+    "ton wallet",
+    "seed phrase",
+    "private key",
+    "generate address"
+  ],
+  "author": "Sekuja",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sekuja/tonweb-wallet-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sekuja/tonweb-wallet-generator/issues"
+  },
+  "homepage": "https://github.com/sekuja/tonweb-wallet-generator#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "tonweb": "^0.0.66",
+    "tonweb-mnemonic": "^1.0.1"
+  }
+}
