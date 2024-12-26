@@ -62,7 +62,7 @@ npm run generate
 OR
 
 ```
-node generate.js
+node src/generate.js
 ```
 
 The script will validate the seed phrase, generate the key pair, and output the public and private keys along with the wallet addresses for different wallet versions.

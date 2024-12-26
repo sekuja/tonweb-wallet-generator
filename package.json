@@ -1,10 +1,10 @@
 {
   "name": "tonweb-wallet-generator",
-  "version": "1.2.0",
-  "main": "generate.js",
+  "version": "1.3.0",
+  "main": "src/generate.js",
   "scripts": {
-    "start": "node generate.js",
-    "generate": "node generate.js"
+    "start": "node src/generate.js",
+    "generate": "node src/generate.js"
   },
   "keywords": [
     "TON",
