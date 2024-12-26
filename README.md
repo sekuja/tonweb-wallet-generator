@@ -47,24 +47,6 @@ Run the script using the following command:
 npm start
 ```
 
-OR
-
-```
-npm run start
-```
-
-OR
-
-```
-npm run generate
-```
-
-OR
-
-```
-node src/generate.js
-```
-
 The script will validate the seed phrase, generate the key pair, and output the public and private keys along with the wallet addresses for different wallet versions.
 
 ## 📊 Example Output
@@ -97,7 +79,7 @@ If the seed phrase is invalid or any other error occurs during execution, an app
 ## 📜 License
 
 - Copyright © 2024 Sekuja
-- **TonWeb Wallet Generator is an open source project licensed under the MIT license**
+- TonWeb Wallet Generator is an open source project licensed under the MIT license
 
 ## 💖 Support & Donation
 
