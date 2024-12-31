@@ -1,8 +1,22 @@
-# Welcome to TonWeb Wallet Generator! 👋
+<h1 align="center">TonWeb Wallet Generator</h1>
 
-TonWeb Wallet Generator is a tool to generate wallet addresses for different versions of TON wallets using a seed phrase stored in a `.env` file. This tool uses the `TonWeb` library to interact with the TON blockchain.
+<!-- The badges section -->
+<p align="center">
+  <!-- Shields.io Contributors -->
+  <a href="https://github.com/sekuja/tonweb-wallet-generator/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/sekuja/tonweb-wallet-generator"/></a>
+  <!-- Shields.io Issues -->
+  <a href="https://github.com/sekuja/tonweb-wallet-generator/issues"><img alt="Issues" src="https://img.shields.io/github/issues/sekuja/tonweb-wallet-generator"/></a>
+  <!-- Shields.io License -->
+  <a href="https://github.com/sekuja/tonweb-wallet-generator/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/sekuja/tonweb-wallet-generator"/></a>
+  <!-- Shields.io Stars -->
+  <a href="https://github.com/sekuja/tonweb-wallet-generator/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/sekuja/tonweb-wallet-generator"/></a>
+  <!-- Shields.io Downloads -->
+  <a href="https://www.npmjs.com/package/tonweb-wallet-generator"><img alt="Downloads" src="https://img.shields.io/github/downloads/sekuja/tonweb-wallet-generator/total"/></a>
+</p>
 
-<a href="https://github.com/sekuja/tonweb-wallet-generator/graphs/contributors"><img src="https://img.shields.io/github/contributors/sekuja/tonweb-wallet-generator?style=flat-square" alt="Contributors"></a> <a href="https://github.com/sekuja/tonweb-wallet-generator/issues"><img src="https://img.shields.io/github/issues/sekuja/tonweb-wallet-generator?style=flat-square" alt="Issues"></a> <a href="https://github.com/sekuja/tonweb-wallet-generator/stargazers"><img src="https://img.shields.io/github/stars/sekuja/tonweb-wallet-generator?style=flat-square" alt="Stars"></a> <a href="https://github.com/sekuja/tonweb-wallet-generator/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sekuja/tonweb-wallet-generator?style=flat-square" alt="License"></a>
+## 📖 Introduction
+
+**TonWeb Wallet Generator** is a tool that generates wallet addresses for various versions of TON wallets using a seed phrase stored in a .env file. This tool utilizes the TonWeb library to interact with the TON blockchain.
 
 ## ⚙️ Features
 
